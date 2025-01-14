@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 import Home from "./pages/Home";
 import Work_experience from "./pages/Work_experience";
 import Projects from "./pages/Projects";
-import { Route, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
