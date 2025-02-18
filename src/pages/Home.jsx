@@ -113,7 +113,7 @@ function Education() {
         <h2 id="sectionHeader">Education</h2>
         <div class="school">
           <div>
-            <h3>
+            <h3 id="degree">
               Bachelor of Science in Computer Science and Minor in Technology
               Management
             </h3>
@@ -123,7 +123,7 @@ function Education() {
         </div>
         <div class="school">
           <div>
-            <h3>Certificate of Specialization in Project Management</h3>
+            <h3 id="degree">Certificate of Specialization in Project Management</h3>
             <p class="location">at College of San Mateo</p>
           </div>
           <p id="time">Projected Graduation Winter 2025</p>
