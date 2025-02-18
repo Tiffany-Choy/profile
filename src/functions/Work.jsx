@@ -4,7 +4,7 @@ export default function Work({ id, title, time, logo, description, skills }) {
       <div class="job" id={id}>
         <div class="title">
           <h2>{title}</h2>
-          <p id="time">{time}</p>
+          <p id="workTime">{time}</p>
         </div>
         <div id="job-description">
           <div id="logo">

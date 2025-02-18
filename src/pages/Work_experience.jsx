@@ -11,6 +11,7 @@ export default function Work_experience() {
             <Work
               id={job.id}
               title={job.title}
+              time={job.time}
               logo={job.logo}
               description={job.description}
               skills={job.skills}
