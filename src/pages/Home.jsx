@@ -57,6 +57,7 @@ function Skills() {
               <li>Microsoft Office</li>
               <li>Zoom</li>
               <li>Slack</li>
+              <li>Zoho Suite</li>
             </ul>
           </div>
           <div id="program">
