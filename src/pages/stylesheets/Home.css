@@ -36,6 +36,7 @@ p{
 #intro-content{
     display: flex;
     flex-direction: row;
+    justify-content: space-between; 
 }
 #words{
     width: 75%;
@@ -91,3 +92,6 @@ ul{
 .location{
     font-style: italic;
 }
+/* .intro{
+    width: 90%;
+} */
