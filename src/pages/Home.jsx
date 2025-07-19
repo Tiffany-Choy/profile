@@ -1,4 +1,4 @@
-import profilePic from "../images/profile-pic.jpg";
+import profilePic from "./profile-pic.jpg";
 import Job from "../data/work.json";
 import "./stylesheets/Home.css";
 import Project from "../functions/Project.jsx";
